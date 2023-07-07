@@ -4,6 +4,7 @@
 
 ## *NC소프트는 **최소한의 개인정보**를 수집 및 이용 합니다.
 <br>
+![image](https://github.com/randombox-ncsoft/PrivacyCenter_NC/assets/138854242/040134fd-b524-45bf-b156-d38acb31ed78)
 
 
 ---
